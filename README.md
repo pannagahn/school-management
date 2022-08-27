@@ -7,6 +7,6 @@ Set-up:
 3. In the application.properties, update your Database name, username and password. 
 4. Set-up your database by creating the table 'student' with the columns mentioned in the Student.java class (enable the AutoIncrement and Primary Key option for ID during table creation). 
 5. Run the application from AppApplication.java class, once the application boots up on port 8080 (as mentioned in application.properties), you can start testing your APIs through postman. 
-6. Link to postman test APIs : https://www.getpostman.com/collections/8819464eb2ec1a440e33 
+6. Link to postman test API collection : https://www.getpostman.com/collections/8819464eb2ec1a440e33 
 
 You are all done ! 
